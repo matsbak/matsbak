@@ -11,5 +11,3 @@ Amateur developer from Norway currently studying a Master's thesis in [informati
 ![Vue.js](https://img.shields.io/badge/Library-Vue.js-%234FC08D?logo=vuedotjs)
 ![Python](https://img.shields.io/badge/Code-Python-%233776AB?logo=python)
 ![Docker](https://img.shields.io/badge/Containerization-Docker-%232496ED?logo=docker)
-
-I love being creative with programming and system architecture! I sometimes build projects outside of studies and will publish them here if I find them worth sharing.
