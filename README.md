@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Mats
 
-Amateur developer from Norway currently studying a Master's thesis in [informatics](https://www.ntnu.edu/studies/msit) at [NTNU](https://www.ntnu.edu/).
+Amateur developer from Norway currently studying MSc in [informatics](https://www.ntnu.edu/studies/msit) at [NTNU](https://www.ntnu.edu/).
 
 ![Java](https://img.shields.io/badge/Code-Java-red)
 ![Maven](https://img.shields.io/badge/Build-Maven-%23C71A36?logo=apachemaven)
